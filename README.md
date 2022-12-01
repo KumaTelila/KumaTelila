@@ -5,8 +5,7 @@
 - 📫 How to reach me  kumatelila26@gmail.com
 
 
-
-         [![trophy](https://github-profile-trophy.vercel.app/?username=KumaTelila)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KumaTelila)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!---
