@@ -1,4 +1,5 @@
 # 👋 Hi, I’m Kuma Telila
+## A professional full-stack web developer.
 - 👀 I’m interested in web development and problem solving
 - 🌱 I’m currently learning new comming technologies on web development and mobile development
 - 💞️ I’m looking to collaborate on any thing that is interesting
