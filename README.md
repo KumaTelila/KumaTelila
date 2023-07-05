@@ -3,10 +3,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=KumaTelila)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-- 👀 I’m interested in web development and problem solving
-- ⚡ In my free time, I solve problems on kattis, leetcode and read tech articles.
-- 🌱 I’m currently learning new comming technologies on web development and mobile development
-- 💞️ I’m looking to collaborate on any thing that is interesting
+- 👀 I’m interested in web development and problem-solving
+- ⚡ In my free time, I solve problems on Kattis, leetcode, and read tech articles.
+- 🌱 I’m currently learning new coming technologies on web development and mobile development
+- 💞️ I’m looking to collaborate on anything that is interesting
 - 📫 How to reach me  kumatelila26@gmail.com
 
 ---
